@@ -1,6 +1,6 @@
-# Al-Azab image prompts 001–030
+# Al-Azab image prompts 001–050
 
-Thirty standalone 16:9 images generated from prompts 001–030. Each image is a separate file.
+Fifty standalone images generated from prompts 001–050. Each image is a separate file in the aspect ratio requested by its prompt.
 
 ## 001 — Sector Government
 
@@ -121,3 +121,83 @@ Thirty standalone 16:9 images generated from prompts 001–030. Each image is a 
 ## 030 — Page Methodologies Index
 
 ![030 Page Methodologies Index](030-page-methodologies-index.png)
+
+## 031 — Page Impact Gallery
+
+![031 Page Impact Gallery](031-page-impact-gallery.png)
+
+## 032 — Leadership Card 1
+
+![032 Leadership Card 1](032-card-leadership-1.png)
+
+## 033 — Leadership Card 2
+
+![033 Leadership Card 2](033-card-leadership-2.png)
+
+## 034 — Leadership Card 3
+
+![034 Leadership Card 3](034-card-leadership-3.png)
+
+## 035 — Leadership Card 4
+
+![035 Leadership Card 4](035-card-leadership-4.png)
+
+## 036 — Management Card 1
+
+![036 Management Card 1](036-card-management-1.png)
+
+## 037 — Management Card 2
+
+![037 Management Card 2](037-card-management-2.png)
+
+## 038 — Management Card 3
+
+![038 Management Card 3](038-card-management-3.png)
+
+## 039 — Management Card 4
+
+![039 Management Card 4](039-card-management-4.png)
+
+## 040 — Operations Card 1
+
+![040 Operations Card 1](040-card-operations-1.png)
+
+## 041 — Operations Card 2
+
+![041 Operations Card 2](041-card-operations-2.png)
+
+## 042 — Operations Card 3
+
+![042 Operations Card 3](042-card-operations-3.png)
+
+## 043 — Operations Card 4
+
+![043 Operations Card 4](043-card-operations-4.png)
+
+## 044 — Readiness Card 1
+
+![044 Readiness Card 1](044-card-readiness-1.png)
+
+## 045 — Readiness Card 2
+
+![045 Readiness Card 2](045-card-readiness-2.png)
+
+## 046 — Readiness Card 3
+
+![046 Readiness Card 3](046-card-readiness-3.png)
+
+## 047 — Technology Card 1
+
+![047 Technology Card 1](047-card-technology-1.png)
+
+## 048 — Technology Card 2
+
+![048 Technology Card 2](048-card-technology-2.png)
+
+## 049 — Technology Card 3
+
+![049 Technology Card 3](049-card-technology-3.png)
+
+## 050 — Technology Card 4
+
+![050 Technology Card 4](050-card-technology-4.png)
