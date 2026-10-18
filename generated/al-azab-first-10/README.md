@@ -1,6 +1,6 @@
-# Al-Azab image prompts 001–090
+# Al-Azab image prompts 001–105
 
-Ninety standalone images generated from prompts 001–090. Each image is a separate file in the aspect ratio requested by its prompt.
+All 105 standalone images generated from prompts 001–105. Each image is a separate file in the aspect ratio requested by its prompt.
 
 ## 001 — Sector Government
 
@@ -361,3 +361,63 @@ Ninety standalone images generated from prompts 001–090. Each image is a separ
 ## 090 — Education Card 1
 
 ![090 Education Card 1](090-card-education-1.png)
+
+## 091 — Education Card 2
+
+![091 Education Card 2](091-card-education-2.png)
+
+## 092 — Education Card 3
+
+![092 Education Card 3](092-card-education-3.png)
+
+## 093 — Education Card 4
+
+![093 Education Card 4](093-card-education-4.png)
+
+## 094 — Education Card 5
+
+![094 Education Card 5](094-card-education-5.png)
+
+## 095 — Sector Orb 01
+
+![095 Sector Orb 01](095-sector-orb-01.png)
+
+## 096 — Sector Orb 02
+
+![096 Sector Orb 02](096-sector-orb-02.png)
+
+## 097 — Sector Orb 03
+
+![097 Sector Orb 03](097-sector-orb-03.png)
+
+## 098 — Sector Orb 04
+
+![098 Sector Orb 04](098-sector-orb-04.png)
+
+## 099 — Sector Orb 05
+
+![099 Sector Orb 05](099-sector-orb-05.png)
+
+## 100 — Sector Orb 06
+
+![100 Sector Orb 06](100-sector-orb-06.png)
+
+## 101 — Sector Orb 07
+
+![101 Sector Orb 07](101-sector-orb-07.png)
+
+## 102 — Sector Orb 08
+
+![102 Sector Orb 08](102-sector-orb-08.png)
+
+## 103 — Sector Orb 09
+
+![103 Sector Orb 09](103-sector-orb-09.png)
+
+## 104 — Sector Orb 10
+
+![104 Sector Orb 10](104-sector-orb-10.png)
+
+## 105 — Sector Orb 11
+
+![105 Sector Orb 11](105-sector-orb-11.png)
