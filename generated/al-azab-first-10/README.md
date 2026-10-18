@@ -1,6 +1,6 @@
-# Al-Azab image prompts 001–050
+# Al-Azab image prompts 001–070
 
-Fifty standalone images generated from prompts 001–050. Each image is a separate file in the aspect ratio requested by its prompt.
+Seventy standalone images generated from prompts 001–070. Each image is a separate file in the aspect ratio requested by its prompt.
 
 ## 001 — Sector Government
 
@@ -201,3 +201,83 @@ Fifty standalone images generated from prompts 001–050. Each image is a separa
 ## 050 — Technology Card 4
 
 ![050 Technology Card 4](050-card-technology-4.png)
+
+## 051 — Projects Card 1
+
+![051 Projects Card 1](051-card-projects-1.png)
+
+## 052 — Projects Card 2
+
+![052 Projects Card 2](052-card-projects-2.png)
+
+## 053 — Projects Card 3
+
+![053 Projects Card 3](053-card-projects-3.png)
+
+## 054 — Projects Card 4
+
+![054 Projects Card 4](054-card-projects-4.png)
+
+## 055 — Projects Card 5
+
+![055 Projects Card 5](055-card-projects-5.png)
+
+## 056 — Government Card 1
+
+![056 Government Card 1](056-card-government-1.png)
+
+## 057 — Government Card 2
+
+![057 Government Card 2](057-card-government-2.png)
+
+## 058 — Government Card 3
+
+![058 Government Card 3](058-card-government-3.png)
+
+## 059 — Government Card 4
+
+![059 Government Card 4](059-card-government-4.png)
+
+## 060 — Government Card 5
+
+![060 Government Card 5](060-card-government-5.png)
+
+## 061 — Energy Card 1
+
+![061 Energy Card 1](061-card-energy-1.png)
+
+## 062 — Energy Card 2
+
+![062 Energy Card 2](062-card-energy-2.png)
+
+## 063 — Energy Card 3
+
+![063 Energy Card 3](063-card-energy-3.png)
+
+## 064 — Energy Card 4
+
+![064 Energy Card 4](064-card-energy-4.png)
+
+## 065 — Banking Card 1
+
+![065 Banking Card 1](065-card-banking-1.png)
+
+## 066 — Banking Card 2
+
+![066 Banking Card 2](066-card-banking-2.png)
+
+## 067 — Banking Card 3
+
+![067 Banking Card 3](067-card-banking-3.png)
+
+## 068 — Banking Card 4
+
+![068 Banking Card 4](068-card-banking-4.png)
+
+## 069 — Banking Card 5
+
+![069 Banking Card 5](069-card-banking-5.png)
+
+## 070 — Aviation Card 1
+
+![070 Aviation Card 1](070-card-aviation-1.png)
