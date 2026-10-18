@@ -1,6 +1,6 @@
-# Al-Azab image prompts 001–070
+# Al-Azab image prompts 001–090
 
-Seventy standalone images generated from prompts 001–070. Each image is a separate file in the aspect ratio requested by its prompt.
+Ninety standalone images generated from prompts 001–090. Each image is a separate file in the aspect ratio requested by its prompt.
 
 ## 001 — Sector Government
 
@@ -281,3 +281,83 @@ Seventy standalone images generated from prompts 001–070. Each image is a sepa
 ## 070 — Aviation Card 1
 
 ![070 Aviation Card 1](070-card-aviation-1.png)
+
+## 071 — Aviation Card 2
+
+![071 Aviation Card 2](071-card-aviation-2.png)
+
+## 072 — Aviation Card 3
+
+![072 Aviation Card 3](072-card-aviation-3.png)
+
+## 073 — Aviation Card 4
+
+![073 Aviation Card 4](073-card-aviation-4.png)
+
+## 074 — Aviation Card 5
+
+![074 Aviation Card 5](074-card-aviation-5.png)
+
+## 075 — Engineering Card 1
+
+![075 Engineering Card 1](075-card-engineering-1.png)
+
+## 076 — Engineering Card 2
+
+![076 Engineering Card 2](076-card-engineering-2.png)
+
+## 077 — Engineering Card 3
+
+![077 Engineering Card 3](077-card-engineering-3.png)
+
+## 078 — Engineering Card 4
+
+![078 Engineering Card 4](078-card-engineering-4.png)
+
+## 079 — Engineering Card 5
+
+![079 Engineering Card 5](079-card-engineering-5.png)
+
+## 080 — Logistics Card 1
+
+![080 Logistics Card 1](080-card-logistics-1.png)
+
+## 081 — Logistics Card 2
+
+![081 Logistics Card 2](081-card-logistics-2.png)
+
+## 082 — Logistics Card 3
+
+![082 Logistics Card 3](082-card-logistics-3.png)
+
+## 083 — Logistics Card 4
+
+![083 Logistics Card 4](083-card-logistics-4.png)
+
+## 084 — Logistics Card 5
+
+![084 Logistics Card 5](084-card-logistics-5.png)
+
+## 085 — Local Content Card 1
+
+![085 Local Content Card 1](085-card-local-content-1.png)
+
+## 086 — Local Content Card 2
+
+![086 Local Content Card 2](086-card-local-content-2.png)
+
+## 087 — Local Content Card 3
+
+![087 Local Content Card 3](087-card-local-content-3.png)
+
+## 088 — Local Content Card 4
+
+![088 Local Content Card 4](088-card-local-content-4.png)
+
+## 089 — Local Content Card 5
+
+![089 Local Content Card 5](089-card-local-content-5.png)
+
+## 090 — Education Card 1
+
+![090 Education Card 1](090-card-education-1.png)
