@@ -1,6 +1,6 @@
-# Al-Azab image prompts 001–105
+# Al-Azab image prompts 001–121
 
-All 105 standalone images generated from prompts 001–105. Each image is a separate file in the aspect ratio requested by its prompt.
+All 121 standalone images generated from prompts 001–121. Each image is a separate file in the aspect ratio requested by its prompt.
 
 ## 001 — Sector Government
 
@@ -421,3 +421,67 @@ All 105 standalone images generated from prompts 001–105. Each image is a sepa
 ## 105 — Sector Orb 11
 
 ![105 Sector Orb 11](105-sector-orb-11.png)
+
+## 106 — Closing Transformation
+
+![106 Closing Transformation](106-closing-transformation.png)
+
+## 107 — Closing Government
+
+![107 Closing Government](107-closing-government.png)
+
+## 108 — Closing Energy
+
+![108 Closing Energy](108-closing-energy.png)
+
+## 109 — Closing Banking
+
+![109 Closing Banking](109-closing-banking.png)
+
+## 110 — Closing Aviation
+
+![110 Closing Aviation](110-closing-aviation.png)
+
+## 111 — Closing Engineering
+
+![111 Closing Engineering](111-closing-engineering.png)
+
+## 112 — Closing Logistics
+
+![112 Closing Logistics](112-closing-logistics.png)
+
+## 113 — Closing Local Content
+
+![113 Closing Local Content](113-closing-local-content.png)
+
+## 114 — Closing Education
+
+![114 Closing Education](114-closing-education.png)
+
+## 115 — Closing Leadership
+
+![115 Closing Leadership](115-closing-leadership.png)
+
+## 116 — Closing Management
+
+![116 Closing Management](116-closing-management.png)
+
+## 117 — Closing Operations
+
+![117 Closing Operations](117-closing-operations.png)
+
+## 118 — Closing Readiness
+
+![118 Closing Readiness](118-closing-readiness.png)
+
+## 119 — Closing Technology
+
+![119 Closing Technology](119-closing-technology.png)
+
+## 120 — Closing Projects
+
+![120 Closing Projects](120-closing-projects.png)
+
+## 121 — Page SE Dashboard
+
+![121 Page SE Dashboard](121-page-se-dashboard.png)
